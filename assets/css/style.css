@@ -646,6 +646,16 @@ section {
 .cta p {
   color: #fff;
 }
+/* ============Button Fix============ */
+button {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+/* ============Button Fix Ends============ */
 .cta .cta-btn {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
