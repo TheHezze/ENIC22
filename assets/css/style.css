@@ -635,7 +635,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("https://drive.google.com/uc?export=view&id=19_lE7UPDtdk3JzfEe6mLwgTPadcaoInc") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("https://drive.google.com/uc?export=view&id=19_lE7UPDtdk3JzfEe6mLwgTPadcaoInc") fixed center;
   background-size: cover;
   padding: 120px 0;
 }
@@ -647,7 +647,7 @@ section {
 .cta p {
   color: #fff;
 }
-/* ============Button Fix============ */
+/* ============Button Fix To make transperent============ */
 button {
   background-color: transparent;
   background-repeat: no-repeat;
