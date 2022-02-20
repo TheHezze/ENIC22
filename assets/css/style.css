@@ -452,7 +452,7 @@ section {
 .section-title span {
   position: absolute;
   top: 30px;
-  color: #f4f4f4;
+  color: #dddcdc;
   left: 0;
   right: 0;
   z-index: 1;
@@ -508,9 +508,13 @@ section {
 }
 .why-us .box {
   background: #fff;
+  margin: auto;
+  height: 100%;
+  max-width: 600px;
   padding: 50px 30px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   transition: all ease-in-out 0.3s;
+  
 }
 .why-us .box span {
   display: block;
