@@ -514,7 +514,7 @@ section {
   display: block;
   font-size: 28px;
   font-weight: 700;
-  color: #ed5b5b;
+  color: #e49319;
 }
 .why-us .box h4 {
   font-size: 24px;
@@ -1170,7 +1170,7 @@ button {
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ed5b5b;
+  color: #e49319;
   font-size: 18px;
   line-height: 1;
 }
@@ -1189,7 +1189,7 @@ button {
   line-height: 1;
 }
 #footer .footer-top .footer-links ul a:hover {
-  color: #eb4444;
+  color: #e2a368;
 }
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
