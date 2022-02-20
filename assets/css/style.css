@@ -503,6 +503,7 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us {
+  background: #f2f2f2;
   padding-top: 10px;
 }
 .why-us .box {
