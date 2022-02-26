@@ -435,7 +435,7 @@ section {
 }
 
 .section-title {
-  text-align: center;
+  text-align:justify;
   padding: 30px 0;
   position: relative;
 }
